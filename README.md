@@ -43,6 +43,15 @@ A list of the dev tools I use, mostly cross-platform (Mac at home, Win at work).
 - [Lunacy](https://icons8.com/lunacy) (Win editing of Sketch files)
 - [BoxySVG](https://boxy-svg.com/)
 - [Gravit Designer](https://www.designer.io/en/)
+- [Remove BG](https://www.remove.bg/)
+
+## Browsers
+
+- [Responsively](https://responsively.app/)
+
+## Content
+
+- [Unsplash Source](https://source.unsplash.com/)
 
 ## Screen Grab
 
@@ -52,6 +61,10 @@ A list of the dev tools I use, mostly cross-platform (Mac at home, Win at work).
 ## Audio Editing
 
 - [OcenAudio](https://www.ocenaudio.com/)
+
+## Typography
+
+- [Type Scale](https://type-scale.com/)
 
 ## Package Management
 
@@ -64,7 +77,7 @@ A list of the dev tools I use, mostly cross-platform (Mac at home, Win at work).
 
 ## Terminal
 
-- [Terminus](https://eugeny.github.io/terminus/) (any shell, with SSH manager)
+- [Tabby](https://github.com/eugeny/tabby) (any shell, with SSH manager)
 
 ## Bookmarking
 
